@@ -1,0 +1,19 @@
+{
+  "name": "code-camp-course",
+  "version": "0.0.1",
+  "description": "Backend development course project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michal-ra/codeCamp-backend-course.git"
+  },
+  "author": "michal-re",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michal-ra/codeCamp-backend-course/issues"
+  },
+  "homepage": "https://github.com/michal-ra/codeCamp-backend-course#readme"
+}
